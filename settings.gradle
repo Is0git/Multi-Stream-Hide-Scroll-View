@@ -1,0 +1,3 @@
+rootProject.name='Multi-stream-Hide-Scroll-View'
+include ':app'
+include ':multistreamhidescrollview'
